@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsolePlaygroundApp1\ConsolePlaygroundApp1\bin\Debug\ConsolePlaygroundApp1.exe.config
+C:\Users\User\source\repos\ConsolePlaygroundApp1\ConsolePlaygroundApp1\bin\Debug\ConsolePlaygroundApp1.exe
+C:\Users\User\source\repos\ConsolePlaygroundApp1\ConsolePlaygroundApp1\bin\Debug\ConsolePlaygroundApp1.pdb
+C:\Users\User\source\repos\ConsolePlaygroundApp1\ConsolePlaygroundApp1\obj\Debug\ConsolePlaygroundApp1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsolePlaygroundApp1\ConsolePlaygroundApp1\obj\Debug\ConsolePlaygroundApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsolePlaygroundApp1\ConsolePlaygroundApp1\obj\Debug\ConsolePlaygroundApp1.exe
+C:\Users\User\source\repos\ConsolePlaygroundApp1\ConsolePlaygroundApp1\obj\Debug\ConsolePlaygroundApp1.pdb
